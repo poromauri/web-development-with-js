@@ -5,7 +5,7 @@ A webpack-based application broilerplate. Hot reloading, postcss, lots of stuff 
 
 Use as you wish, but still read the license from LICENSE.
 
-In master branch, a clean slate which just logs to console.
+In mster branch, a clean slate which just logs to console.
 
 In "reduxed" branch, a simple application with Redux and React.
 
